@@ -14,14 +14,20 @@ Here are some ideas to get you started:
 
 -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&size=37&pause=200&color=000000&background=EAEAEAC6&center=true&vCenter=true&width=1000&height=100&lines=Hi+I'm+Software+Developer+!;Thanks+for+visiting+GitHub" style="width: 100%; border-radius: 15px;" alt="Typing SVG" 
-  /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&size=37&pause=200&color=000000&background=EAEAEAC6&center=true&vCenter=true&width=1000&height=100&lines=Hi+I'm+Software+Developer+!;Thanks+for+visiting+GitHub" alt="Typing SVG" />
+  </a>
 </div>
 
-<div align="center" style="margin-top: -50px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunsuk990&layout=compact&bg_color=00000000&theme=transparent"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yunsuk990&show_icons=true&bg_color=00000000&theme=transparent"/>
+<div align="center">
+  <a href="https://github.com/yunsuk990">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunsuk990&layout=compact&bg_color=00000000&theme=transparent&show_icons=true&theme=buefy&card_width=300" />
+  </a>
+  <a href="https://github.com/yunsuk990?tab=repositories"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yunsuk990&layout=compact&langs_count=8&card_width=300&show_icons=true&bg_color=00000000&theme=transparent" />
+  </a>
 </div>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=yunsuk990)](https://solved.ac/yunsuk990)
+<div align="center">
+  <img height=200 width=400 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yunsuk990" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunsuk990&theme=buefy&border=E4E2E2&card_width=400" />
+</div>
+
