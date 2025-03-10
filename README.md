@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=https://solved.ac/profile/yunsuk990)](https://solved.ac/profile/yunsuk990)
 
-![Yunsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
-
-![Yunsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunsuk990&show_icons=true&theme=radical)
+![Yunsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunsuk990&show_icons=true&bg_color=00000000)
