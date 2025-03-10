@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?color=7E77AD?type=waving&height=300&section=header&text=Yunsuk&fontSize=70)
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7E77AD&height=300&section=header&text=Yunsuk&fontSize=70)
 
 [![Solved.ac
