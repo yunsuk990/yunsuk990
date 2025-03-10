@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunsuk990&layout=compact)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=profile/yunsuk990)](https://solved.ac/profile/yunsuk990)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=yunsuk990)](https://solved.ac/yunsuk990)
