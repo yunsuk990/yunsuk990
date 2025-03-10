@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yunsuk&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yunsuk&fontSize=90)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=https://solved.ac/profile/yunsuk990)](https://solved.ac/profile/yunsuk990)
 
