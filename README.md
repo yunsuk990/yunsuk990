@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=EAEAEAC6&width=435&lines="Hi I'm Software Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=EAEAEAC6&width=435&lines="Hi Im Software Developer" alt="Typing SVG" /></a>
 </div>
 
 <div align="center" style="margin-top: -50px;">
