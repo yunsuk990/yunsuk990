@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?color=7E77AD?type=waving&height=300&section=header&text=Yunsuk&fontSize=70)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=7E77AD&height=300&section=header&text=Yunsuk&fontSize=70)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=https://solved.ac/profile/yunsuk990)](https://solved.ac/profile/yunsuk990)
