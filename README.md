@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yunsuk990&show_icons=true&bg_color=00000000" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunsuk990&theme=transparent" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunsuk990&layout=compact" width="48%"/>
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunsuk990&layout=compact)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yunsuk990)](https://solved.ac/yunsuk990)
