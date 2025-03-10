@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E77AD&height=200&section=header&text=Yunsuk&fontSize=70&fontAlign=80"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E77AD&height=200&section=header&text=Yunsuk&fontSize=70"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunsuk990&show_icons=true&bg_color=00000000" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunsuk990&layout=compact" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yunsuk990&show_icons=true&bg_color=00000000&theme=transparent" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunsuk990&layout=compact&bg_color=00000000&theme=transparent" width="48%"/>
 </p>
 
 [![Solved.ac
