@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7E77AD&height=200&section=header&text=Yunsuk&fontSize=70&fontAlign=80"/>
 </div>
-<div align="center style="margin-top: -20px;">
+<div align="center style="margin-top: -50px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunsuk990&layout=compact&bg_color=00000000&theme=transparent"/>
   <img src="https://github-readme-stats.vercel.app/api?username=yunsuk990&show_icons=true&bg_color=00000000&theme=transparent"/>
 </div>
