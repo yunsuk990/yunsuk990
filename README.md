@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7E77AD&height=200&section=header&text=Yunsuk&fontSize=70&fontAlign=80"/>
-</p>
-<p align="center">
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunsuk990&layout=compact&bg_color=00000000&theme=transparent"/>
   <img src="https://github-readme-stats.vercel.app/api?username=yunsuk990&show_icons=true&bg_color=00000000&theme=transparent"/>
-</p>
+</div>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yunsuk990)](https://solved.ac/yunsuk990)
