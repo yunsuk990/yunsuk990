@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/profile/yunsuk990)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=https://solved.ac/profile/yunsuk990)](https://solved.ac/profile/yunsuk990)
 
 ![Yunsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunsuk990&show_icons=true&theme=radical)
