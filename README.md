@@ -13,12 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi I'm Software Developer" alt="Typing SVG" /></a>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E77AD&height=200&section=header&text=Yunsuk&fontSize=70&fontAlign=80"/>
-</div>
--->
 <div style="position: relative; width: 100%; text-align: center;">
   <!-- 배경 캡슐 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7E77AD&height=200&section=header&text=Yunsuk&fontSize=70&fontAlign=80"/>
