@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img height=200 width=400 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yunsuk990" />
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunsuk990&theme=buefy&border=E4E2E2&card_width=400" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=yunsuk990&theme=buefy" />
 </div>
 
 <br><br>
